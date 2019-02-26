@@ -1,7 +1,7 @@
-# Artemis
-A fun, modern, and swift desktop environment
+# Artemis Reborn
 
-## About this repo
-This repository serves as a metapackage code repository, in addition to a document library that contains things like building instructions, codes of conduct, etc.
+This is a canonical repository for the Artemis (Reborn) Project. Note that any pre-Reborn repos are now archived for your convenience.
 
-If you are looking for the desktop shell repo, take a look at [Desiree](http://www.github.com/artemis-project/desiree).
+## Extensions
+
+- [GNOME Extension](https://github.com/artemis-project/gnome-extension)
